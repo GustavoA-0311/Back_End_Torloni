@@ -1,0 +1,14 @@
+C:\Users\57485910817\Desktop\Back End Torloni\laçofor\obj\Debug\net9.0\laçofor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57485910817\Desktop\Back End Torloni\laçofor\obj\Debug\net9.0\laçofor.AssemblyInfoInputs.cache
+C:\Users\57485910817\Desktop\Back End Torloni\laçofor\obj\Debug\net9.0\laçofor.AssemblyInfo.cs
+C:\Users\57485910817\Desktop\Back End Torloni\laçofor\obj\Debug\net9.0\laçofor.csproj.CoreCompileInputs.cache
+C:\Users\57485910817\Desktop\Back End Torloni\laçofor\bin\Debug\net9.0\laçofor.exe
+C:\Users\57485910817\Desktop\Back End Torloni\laçofor\bin\Debug\net9.0\laçofor.deps.json
+C:\Users\57485910817\Desktop\Back End Torloni\laçofor\bin\Debug\net9.0\laçofor.runtimeconfig.json
+C:\Users\57485910817\Desktop\Back End Torloni\laçofor\bin\Debug\net9.0\laçofor.dll
+C:\Users\57485910817\Desktop\Back End Torloni\laçofor\bin\Debug\net9.0\laçofor.pdb
+C:\Users\57485910817\Desktop\Back End Torloni\laçofor\obj\Debug\net9.0\laçofor.dll
+C:\Users\57485910817\Desktop\Back End Torloni\laçofor\obj\Debug\net9.0\refint\laçofor.dll
+C:\Users\57485910817\Desktop\Back End Torloni\laçofor\obj\Debug\net9.0\laçofor.pdb
+C:\Users\57485910817\Desktop\Back End Torloni\laçofor\obj\Debug\net9.0\laçofor.genruntimeconfig.cache
+C:\Users\57485910817\Desktop\Back End Torloni\laçofor\obj\Debug\net9.0\ref\laçofor.dll
