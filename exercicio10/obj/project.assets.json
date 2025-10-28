@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\57485910817\\Desktop\\Back End Torloni\\exercicio10\\exercicio10.csproj",
+      "projectUniqueName": "C:\\Users\\57485910817\\Desktop\\Back _End_Torloni\\exercicio10\\exercicio10.csproj",
       "projectName": "exercicio10",
-      "projectPath": "C:\\Users\\57485910817\\Desktop\\Back End Torloni\\exercicio10\\exercicio10.csproj",
+      "projectPath": "C:\\Users\\57485910817\\Desktop\\Back _End_Torloni\\exercicio10\\exercicio10.csproj",
       "packagesPath": "C:\\Users\\57485910817\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\57485910817\\Desktop\\Back End Torloni\\exercicio10\\obj\\",
+      "outputPath": "C:\\Users\\57485910817\\Desktop\\Back _End_Torloni\\exercicio10\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\57485910817\\AppData\\Roaming\\NuGet\\NuGet.Config"

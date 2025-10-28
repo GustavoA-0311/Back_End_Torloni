@@ -16,7 +16,6 @@
             Console.WriteLine("====================================");
             Console.Write("Escolha uma opção: ");
             
-            // Evita erro caso o usuário digite algo inválido
               opcao = int.Parse(Console.ReadLine());
 
             Console.Clear();
@@ -58,7 +57,6 @@
         } while (opcao != 0);
     }
 
-    // Exercício 1
  void Exercicio1()
     {
         Console.Write("Informe o salário recebido: R$ ");
@@ -72,7 +70,6 @@
             Console.WriteLine("Orçamento estourado!");
     }
 
-    // Exercício 2
  void Exercicio2()
  {
   int time1, time2;
@@ -90,7 +87,6 @@
         else
             Console.WriteLine("Empate!");
 }
-    // Exercício 3
 
  void Exercicio3()
     {
@@ -110,11 +106,10 @@
     }
 
 
-    // Exercício 4
  
  void Exercicio4()
     {
-        const int senhaCorreta = 1234;
+int senhaCorreta = 1234;
 
         Console.Write("Digite a senha: ");
         int senha = int.Parse(Console.ReadLine());
@@ -126,7 +121,6 @@
     }
 
 
-    // Exercício 5
   
  void Exercicio5()
     {
@@ -139,7 +133,6 @@
         Console.WriteLine($"Valor total da compra: R$ {total:F2}");
     }
 
-    // Exercício 6
  void Exercicio6()
     {
         Console.Write("Informe a média do aluno: ");

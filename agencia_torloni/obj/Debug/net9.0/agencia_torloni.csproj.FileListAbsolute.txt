@@ -1,0 +1,15 @@
+C:\Users\57485910817\Desktop\Back _End_Torloni\agencia_torloni\bin\Debug\net9.0\agencia_torloni.exe
+C:\Users\57485910817\Desktop\Back _End_Torloni\agencia_torloni\bin\Debug\net9.0\agencia_torloni.deps.json
+C:\Users\57485910817\Desktop\Back _End_Torloni\agencia_torloni\bin\Debug\net9.0\agencia_torloni.runtimeconfig.json
+C:\Users\57485910817\Desktop\Back _End_Torloni\agencia_torloni\bin\Debug\net9.0\agencia_torloni.dll
+C:\Users\57485910817\Desktop\Back _End_Torloni\agencia_torloni\bin\Debug\net9.0\agencia_torloni.pdb
+C:\Users\57485910817\Desktop\Back _End_Torloni\agencia_torloni\obj\Debug\net9.0\agencia_torloni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57485910817\Desktop\Back _End_Torloni\agencia_torloni\obj\Debug\net9.0\agencia_torloni.AssemblyInfoInputs.cache
+C:\Users\57485910817\Desktop\Back _End_Torloni\agencia_torloni\obj\Debug\net9.0\agencia_torloni.AssemblyInfo.cs
+C:\Users\57485910817\Desktop\Back _End_Torloni\agencia_torloni\obj\Debug\net9.0\agencia_torloni.csproj.CoreCompileInputs.cache
+C:\Users\57485910817\Desktop\Back _End_Torloni\agencia_torloni\obj\Debug\net9.0\agencia_torloni.sourcelink.json
+C:\Users\57485910817\Desktop\Back _End_Torloni\agencia_torloni\obj\Debug\net9.0\agencia_torloni.dll
+C:\Users\57485910817\Desktop\Back _End_Torloni\agencia_torloni\obj\Debug\net9.0\refint\agencia_torloni.dll
+C:\Users\57485910817\Desktop\Back _End_Torloni\agencia_torloni\obj\Debug\net9.0\agencia_torloni.pdb
+C:\Users\57485910817\Desktop\Back _End_Torloni\agencia_torloni\obj\Debug\net9.0\agencia_torloni.genruntimeconfig.cache
+C:\Users\57485910817\Desktop\Back _End_Torloni\agencia_torloni\obj\Debug\net9.0\ref\agencia_torloni.dll
