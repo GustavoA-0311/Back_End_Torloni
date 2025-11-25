@@ -1,0 +1,15 @@
+C:\Users\57485910817\Desktop\Back _End_Torloni\POO\Pilares\CLASSESESTATICAS\bin\Debug\net9.0\CLASSESESTATICAS.exe
+C:\Users\57485910817\Desktop\Back _End_Torloni\POO\Pilares\CLASSESESTATICAS\bin\Debug\net9.0\CLASSESESTATICAS.deps.json
+C:\Users\57485910817\Desktop\Back _End_Torloni\POO\Pilares\CLASSESESTATICAS\bin\Debug\net9.0\CLASSESESTATICAS.runtimeconfig.json
+C:\Users\57485910817\Desktop\Back _End_Torloni\POO\Pilares\CLASSESESTATICAS\bin\Debug\net9.0\CLASSESESTATICAS.dll
+C:\Users\57485910817\Desktop\Back _End_Torloni\POO\Pilares\CLASSESESTATICAS\bin\Debug\net9.0\CLASSESESTATICAS.pdb
+C:\Users\57485910817\Desktop\Back _End_Torloni\POO\Pilares\CLASSESESTATICAS\obj\Debug\net9.0\CLASSESESTATICAS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\57485910817\Desktop\Back _End_Torloni\POO\Pilares\CLASSESESTATICAS\obj\Debug\net9.0\CLASSESESTATICAS.AssemblyInfoInputs.cache
+C:\Users\57485910817\Desktop\Back _End_Torloni\POO\Pilares\CLASSESESTATICAS\obj\Debug\net9.0\CLASSESESTATICAS.AssemblyInfo.cs
+C:\Users\57485910817\Desktop\Back _End_Torloni\POO\Pilares\CLASSESESTATICAS\obj\Debug\net9.0\CLASSESESTATICAS.csproj.CoreCompileInputs.cache
+C:\Users\57485910817\Desktop\Back _End_Torloni\POO\Pilares\CLASSESESTATICAS\obj\Debug\net9.0\CLASSESESTATICAS.sourcelink.json
+C:\Users\57485910817\Desktop\Back _End_Torloni\POO\Pilares\CLASSESESTATICAS\obj\Debug\net9.0\CLASSESESTATICAS.dll
+C:\Users\57485910817\Desktop\Back _End_Torloni\POO\Pilares\CLASSESESTATICAS\obj\Debug\net9.0\refint\CLASSESESTATICAS.dll
+C:\Users\57485910817\Desktop\Back _End_Torloni\POO\Pilares\CLASSESESTATICAS\obj\Debug\net9.0\CLASSESESTATICAS.pdb
+C:\Users\57485910817\Desktop\Back _End_Torloni\POO\Pilares\CLASSESESTATICAS\obj\Debug\net9.0\CLASSESESTATICAS.genruntimeconfig.cache
+C:\Users\57485910817\Desktop\Back _End_Torloni\POO\Pilares\CLASSESESTATICAS\obj\Debug\net9.0\ref\CLASSESESTATICAS.dll
